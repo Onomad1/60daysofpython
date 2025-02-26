@@ -7,3 +7,4 @@
 - [x] Dia 5 Adivinhe o quadrado de um número
 - [x] Dia 6 criando uma lista de frutas
 - [x] Dia 7 criando um dicionario de alunos
+- [x] Dia 8 idade para dirigir 
