@@ -7,4 +7,4 @@ try:
     else:
       print("Este numero é impar")
 except ValueError:
-    print("Voc~e não passou um inteiro")
+    print("Você não passou um inteiro")

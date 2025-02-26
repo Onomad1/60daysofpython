@@ -7,4 +7,4 @@ aluno = {
     
 }
 
-print("Nome: ", aluno["nome"])
+print("Nome:", aluno["nome"])
