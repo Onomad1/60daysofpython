@@ -9,3 +9,6 @@
 - [x] Dia 7 criando um dicionario de alunos
 - [x] Dia 8 idade para dirigir
 - [x] Dia 9 criando um contador
+- [x] Dia 10 gerador de senha 
+- [x] Dia 11 criando uma lista ordenada
+- [x] Dia 12 procurar número em uma lista
