@@ -12,3 +12,4 @@
 - [x] Dia 10 gerador de senha 
 - [x] Dia 11 criando uma lista ordenada
 - [x] Dia 12 procurar número em uma lista
+- [x] Dia 13 função fatorial
