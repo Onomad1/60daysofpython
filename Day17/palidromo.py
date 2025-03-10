@@ -1,8 +1,8 @@
-def eh_palidromo(texto):
-    if texto == texto[::-1]:
-        print("oi")
+def eh_palidromo(texto):  
+   texto = str(texto).replace(" ","").lower()
+   
+   if texto == texto[::-1]:
+       return f"{texto} é um palidromo"
+   return f"{texto} não é um paloidromo"
 
-texto = input("Digite uma palavra: ")
-texto = str(texto).replace(" ","").lower()
-print(texto[::-1])
-
+print(eh_palidromo(input("Digite uma palavra: ")))
