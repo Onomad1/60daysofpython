@@ -13,3 +13,6 @@
 - [x] Dia 11 criando uma lista ordenada
 - [x] Dia 12 procurar número em uma lista
 - [x] Dia 13 função fatorial
+- [x] Dia 14 verificador de números primos
+- [x] Dia 15 fibonacci
+- [x] Dia 16 anagrama

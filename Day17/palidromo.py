@@ -1,2 +1,8 @@
 def eh_palidromo(texto):
-    texto = str(texto).replace(" ","").lower()
+    if texto == texto[::-1]:
+        print("oi")
+
+texto = input("Digite uma palavra: ")
+texto = str(texto).replace(" ","").lower()
+print(texto[::-1])
+
